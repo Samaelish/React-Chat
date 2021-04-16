@@ -3,4 +3,4 @@
 ### Аутентификация, история сообщений, комнаты для общения с разным уровнем доступа, отправка изображений, добавление/удаление пользователей
 ![App Pic](https://i.imgur.com/JfBBtqc.png)
 Для входа использовать логин PublicUser, пароль 123123
-# [Демо на Netlify](https://nervous-leakey-aa754d.netlify.app/)
+# [Смотреть демо](https://react-chat-lovat.vercel.app/)
